@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Weather/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Weather"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/mimepull.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/jersey/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/Downloads/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/Downloads/jersey-client-1.19.4 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/Downloads/jaxrs-ri-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/JA3B/jaxrs-ri/api/jakarta.ws.rs-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/Downloads/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyHome/OneDrive/Documents/javac.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
